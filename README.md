@@ -1,4 +1,4 @@
-# TDT17 Mini Project on road damage detection
+# TDT17 Mini Project on road damage detection --
 
 This project uses YOLOv7 with the w6 model to detect road damage on the CRDC2022 dataset
 
